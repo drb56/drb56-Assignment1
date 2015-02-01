@@ -1,0 +1,57 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  David Bickford
+
+Lecture section:  1040
+
+Recitation day and time:  Friday 3 -3:50PM
+
+Assignment #:  1
+
+Program due date:  Sunday February 1st
+
+Handed in date:  Sunday February 1st
+
+Source code file name(s): 
+
+MyBoggle.java
+DLB.java
+
+
+
+
+
+Other file name(s) (if relevant):
+
+
+DLB.class
+MyBoggle.class
+
+
+
+
+Does your program run without error?: No
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+
+My recursive method for searching the board doesn't work and creates an error. Everything else works correctly.
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
